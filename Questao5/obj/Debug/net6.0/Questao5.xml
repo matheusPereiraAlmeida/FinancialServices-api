@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Questao5</name>
+    </assembly>
+    <members>
+        <member name="P:Questao5.Application.Commands.Requests.MovimentarContaCommand.IdRequisicao">
+            <example>B6BAFC09-6967-ED11-A567-055DFA4A16C9</example>
+        </member>
+        <member name="P:Questao5.Application.Commands.Requests.MovimentarContaCommand.IdContaCorrente">
+            <example>B6BAFC09-6967-ED11-A567-055DFA4A16C9</example>
+        </member>
+        <member name="P:Questao5.Application.Commands.Requests.MovimentarContaCommand.Valor">
+            <example>123,45</example>
+        </member>
+        <member name="P:Questao5.Application.Commands.Requests.MovimentarContaCommand.TipoMovimento">
+            <example>C</example>
+        </member>
+        <member name="T:Questao5.Application.Commands.Responses.ResultadoMovimentacao">
+            <summary>
+            Resposta da movimentação de conta corrente.
+            </summary>
+        </member>
+        <member name="P:Questao5.Application.Commands.Responses.ResultadoMovimentacao.IdMovimento">
+            <example>b4f8c5f2-2a60-4d90-b6a2-3e0b8e7a8a91</example>
+        </member>
+        <member name="T:Questao5.Application.Queries.Responses.ConsultarSaldoResponse">
+            <summary>
+            Resposta da consulta de saldo.
+            </summary>
+        </member>
+        <member name="P:Questao5.Application.Queries.Responses.ConsultarSaldoResponse.Numero">
+            <example>123</example>
+        </member>
+        <member name="P:Questao5.Application.Queries.Responses.ConsultarSaldoResponse.Nome">
+            <example>Katherine Sanchez</example>
+        </member>
+        <member name="P:Questao5.Application.Queries.Responses.ConsultarSaldoResponse.DataConsulta">
+            <example>DD/MM/AA : hh:mm</example>
+        </member>
+        <member name="P:Questao5.Application.Queries.Responses.ConsultarSaldoResponse.Saldo">
+            <example>123,45</example>
+        </member>
+        <member name="M:Questao5.Infrastructure.Services.Controllers.ContaCorrenteController.ConsultaSaldoPorNumero(System.Int32)">
+            <summary>
+            Consulta o saldo da conta corrente a partir do número da conta.
+            </summary>
+            <param name="numeroConta">Número da conta corrente</param>
+            <returns>Saldo da conta corrente</returns>
+            <response code="200">Saldo retornado com sucesso</response>
+            <response code="400">Conta inválida</response>
+        </member>
+        <member name="M:Questao5.Infrastructure.Services.Controllers.ContaCorrenteController.ConsultarSaldoPorId(System.String)">
+            <summary>
+            Consulta o saldo da conta corrente a partir do ID da conta.
+            </summary>
+            <param name="contaId">Id da conta corrente.</param>
+            <returns>Saldo da conta corrente.</returns>
+            <response code="200">Saldo retornado com sucesso</response>
+            <response code="400">Conta inválida</response>
+        </member>
+        <member name="M:Questao5.Infrastructure.Services.Controllers.ContaCorrenteController.RealizarMovimentacao(Questao5.Application.Commands.Requests.MovimentarContaCommand)">
+            <summary>
+            Realiza uma movimentação (crédito ou débito) em uma conta corrente usando o ID da conta
+            </summary>
+            <param name="request">Dados da movimentação.</param>
+            <returns>Id do movimento gerado.</returns>
+            <response code="200">Movimentação realizada com sucesso.</response>
+            <response code="400">Dados inválidos para movimentação.</response>
+        </member>
+    </members>
+</doc>
