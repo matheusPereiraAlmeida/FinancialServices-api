@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Questao5.csproj": {}
+    "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\FinancialServicesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Questao5.csproj": {
+    "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\FinancialServicesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Questao5.csproj",
-        "projectName": "Questao5",
-        "projectPath": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Questao5.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\FinancialServicesAPI.csproj",
+        "projectName": "FinancialServicesAPI",
+        "projectPath": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\FinancialServicesAPI.csproj",
         "packagesPath": "C:\\Users\\matheus.p.almeida\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\obj\\",
         "projectStyle": "PackageReference",
