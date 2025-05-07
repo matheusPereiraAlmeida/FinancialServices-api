@@ -3,38 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\testes\\infrastructure\\database\\querystore\\requests\\contaqueryrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\testes\\infrastructure\\database\\querystore\\requests\\contaqueryrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\infrastructure\\database\\querystore\\requests\\contaqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\requests\\contaqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\application\\handlers\\consultarsaldohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\consultarsaldohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\infrastructure\\database\\querystore\\requests\\movimentarcontaqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\requests\\movimentarcontaqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\application\\handlers\\movimentarcontahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\movimentarcontahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\infrastructure\\database\\commandstore\\requests\\movimentarcontacommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\requests\\movimentarcontacommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\matheus.p.almeida\\music\\projeto\\teste-nivelamento-desenvolvedor-csharp-api-v3\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus.p.almeida\\AppData\\Local\\Temp\\.vsdbgsrc\\58e1f5ec16089b145d64d7571081a8766531d3178c1e30b9601f20a74ea453a2\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -45,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 49,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,98 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
-              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
-              "RelativeToolTip": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:09:51.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsultarSaldoHandler.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Application\\Handlers\\ConsultarSaldoHandler.cs",
-              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\ConsultarSaldoHandler.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Application\\Handlers\\ConsultarSaldoHandler.cs",
-              "RelativeToolTip": "Questao5\\Application\\Handlers\\ConsultarSaldoHandler.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwB0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:59:23.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovimentarContaHandler.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
-              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
-              "RelativeToolTip": "Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAjwCgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:59:23.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContaQueryRequestTests.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Testes\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequestTests.cs",
-              "RelativeDocumentMoniker": "Questao5\\Testes\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequestTests.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Testes\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequestTests.cs",
-              "RelativeToolTip": "Questao5\\Testes\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequestTests.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:59:23.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContaQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequest.cs",
-              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequest.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequest.cs",
-              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ContaQueryRequest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:11:01.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovimentarContaQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\MovimentarContaQueryRequest.cs",
-              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\MovimentarContaQueryRequest.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\MovimentarContaQueryRequest.cs",
-              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\MovimentarContaQueryRequest.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:59:23.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovimentarContaCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentarContaCommandRequest.cs",
-              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentarContaCommandRequest.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentarContaCommandRequest.cs",
-              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentarContaCommandRequest.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAjwC0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:59:23.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ServiceProvider.cs",
               "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\AppData\\Local\\Temp\\.vsdbgsrc\\58e1f5ec16089b145d64d7571081a8766531d3178c1e30b9601f20a74ea453a2\\ServiceProvider.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\58e1f5ec16089b145d64d7571081a8766531d3178c1e30b9601f20a74ea453a2\\ServiceProvider.cs",
@@ -193,19 +70,6 @@
               "ViewState": "AQIAACcAAAAAAAAAAAAnwDsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T14:08:11.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Program.cs",
-              "RelativeDocumentMoniker": "Questao5\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.p.almeida\\Music\\Projeto\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Program.cs",
-              "RelativeToolTip": "Questao5\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIBJwC0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:08:00.089Z",
               "EditorCaption": ""
             }
           ]
